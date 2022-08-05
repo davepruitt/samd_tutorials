@@ -11,5 +11,5 @@ My code is certainly not perfect nor bug free, but it should work and help to ge
 - Tutorial 1: creating a simple USB virtual serial port on a SAMD21 - https://youtu.be/Kwa9I0REEYs
 - Tutorial 2: creating a simple USB virtual serial port on a SAMD51 - https://youtu.be/AgJe6NTwEA4
 - Tutorial 3: improving upon tutorial 2 to create a better/more usable USB virtual serial port - https://youtu.be/lpF-ITdQBHU
-- Tutorial 4: connecting to a wifi access point using an ATWINC3400 with a SAMD51 microcontroller and ASF4. Video coming soon!
+- Tutorial 4: connecting to a wifi access point using an ATWINC3400 with a SAMD51 microcontroller and ASF4 - https://www.youtube.com/watch?v=8QXpHtQB0DE
     - Link to ATWINC3400 library for ASF4: https://github.com/Vulintus/ATWINC3400_Driver_ASF4
